@@ -1,4 +1,4 @@
-# Language and Power of Workplace Chat
+# Language and Power of Workplace Conversation
 
 An NLP Analysis of Slack
 
