@@ -1,0 +1,22 @@
+[main]
+slack_dir = Mobibod Slack export Mar 9 2016 - Sep 6 2022
+proc_file = data/processed.csv
+slack_bert = data/dataset_slack.csv
+
+[corpus]
+speaker_concat_file = data/concatenated_speakers.csv
+conv_concat_file = data/concatenated_conversations.csv
+
+[liwc]
+category_file = cat_all.txt
+proc_output = data/processed_liwc.csv
+speaker_concat_output = data/concatenated_speakers_liwc.csv
+conv_concat_output = data/concatenated_conversations_liwc.csv
+
+[analysis]
+speaker_avg_output = analysis/liwc_speaker_avg.csv
+politness_label_output = analysis/predictions_slack_labels.txt
+politness_score_output = analysis/predictions_slack_scores.txt
+
+[visual]
+communication_map = visual/communication_map.pdf
