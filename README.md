@@ -35,15 +35,15 @@ Overall, the source code could be run automatically after a minimal amount of co
 
 ## BERT for Politeness
 
-With notebook #5-1, you may verify the cross-domain accuracy of BERT (82.1%, trained on the SlackExchange and tested on the Wikipedia politeness datasets), and use it to make predications about Slack data. Please read the header in the notebook for detailed guide. 
+With notebook #5-1, you may verify the cross-domain accuracy of BERT (82.1%, trained on the SlackExchange and tested on the Wikipedia politeness datasets), and use it to make predications about Slack data. Please read the notebook's header for a more detailed guide. 
 
-Checkpoint of the BERT model mentioned above is at https://drive.google.com/drive/folders/17OJbUSi2KZTK_G5dyghZqfuixbpAPf7v?usp=sharing. 
+Checkpoint of the BERT model mentioned above is available at https://drive.google.com/drive/folders/17OJbUSi2KZTK_G5dyghZqfuixbpAPf7v?usp=sharing. 
 
-Another model checkpoint (trained on Wikipedia, cross-domain accuracy of 70.1%) is at https://drive.google.com/drive/folders/16wA3PXKbukU_UhP_EYWxsCGvQZ4uDsnt?usp=sharing.
+Another model checkpoint (trained on Wikipedia, cross-domain accuracy of 70.1%) is available at https://drive.google.com/drive/folders/16wA3PXKbukU_UhP_EYWxsCGvQZ4uDsnt?usp=sharing.
 
 ## Weekly Sentiment and Politeness
 
-Run notebook #5-2 to conduct user sentiment (politeness) analysis after running notebooks #1 through #4. What is also supported is a comparison of the weekly sentiment (politeness)scores of a user talking ti various listeners.
+Run notebook #5-2 (after running notebooks #1 through #4) to conduct user sentiment (politeness) analysis, along with a comparison of the weekly sentiment (politeness) scores of a user speaking to various listeners.
 
 Consult `visual` for the results, some examples are provided here.
 
