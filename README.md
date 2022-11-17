@@ -25,12 +25,12 @@ Overall, the source code could be run automatically after a minimal amount of co
 
 ## LIWC analysis
 
-1. Make sure LIWC-22 is installed on your computer. Make sure its desktop software is active while you run notbook #3 (this is how this program connects to the LIWC dictionary). 
+1. Make sure ****LIWC-22** is installed on your computer. Make sure its desktop software is active while you run notbook #3 (this is how this program connects to the LIWC dictionary). 
 
 2. Unzip your exported Slack data, put the folder under `/data`, and make sure the name of your Slack folder matches your configuration of "slack_dir" in `config.txt`. You may also specify cusotmized LIWC categories by modifcating `cat_all.txt`
 
 3. Run through notebooks #1~#4. 
 
-You can look for the extracted messages, replies, reactions and pertinent Slack metada in the file `/data/processed.csv`. Look under `/visual` for the communication map described in the report (we supply the communication map of our dataaset as an example). For the user average LIWC counts and pairwise t-test results, consult `/results`. 
+You can look for the extracted messages, replies, reactions and pertinent Slack metada in the file `/data/processed.csv`. Look under `/visual` for the communication map described in the report (we supply the communication map of our dataset as an example). For the user average LIWC counts and pairwise t-test results, consult `/results`. 
 
 ## Exploratory analyis
