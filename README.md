@@ -1,6 +1,8 @@
 # Language and Power of Workplace Conversation
 
-An NLP analysis of Slack ![](assets/logo.png)
+An NLP analysis of Slack 
+
+![](assets/logo.png)
 
 ## Overview
 
