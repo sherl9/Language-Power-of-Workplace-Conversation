@@ -1,7 +1,7 @@
 [main]
 slack_dir = Mobibod Slack export Mar 9 2016 - Sep 6 2022
 proc_file = data/processed.csv
-slack_bert = data/dataset_slack.csv
+slack_text_file = data/dataset_slack.csv
 
 [corpus]
 speaker_concat_file = data/concatenated_speakers.csv
