@@ -37,7 +37,7 @@ Overall, the source code could be run automatically after a minimal amount of co
 
 With notebook #5-1, you may verify the cross-domain accuracy of BERT (82.1%, trained on the SlackExchange and tested on the Wikipedia politeness datasets), and use it to make predications about Slack data. Please read the notebook's header for a more detailed guide. 
 
-Checkpoint of the BERT model mentioned above is available at https://drive.google.com/drive/folders/17OJbUSi2KZTK_G5dyghZqfuixbpAPf7v?usp=sharing. 
+Checkpoint of the BERT model mentioned above is available at https://drive.google.com/drive/folders/17OJbUSi2KZTK_G5dyghZqfuixbpAPf7v?usp=sharing (access via unimelb mail account).
 
 Another model checkpoint (trained on Wikipedia, cross-domain accuracy of 70.1%) is available at https://drive.google.com/drive/folders/16wA3PXKbukU_UhP_EYWxsCGvQZ4uDsnt?usp=sharing.
 
